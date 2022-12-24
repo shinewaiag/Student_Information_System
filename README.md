@@ -4,7 +4,7 @@ This system is very useful for mini schools and course class.
 Modules used in this project
 Admin   - Admin can create,edit and delete course, view student’s info, also confirm and cancel courses that student enrolled.
 Student  - Student can add and view info, enroll and decline course, also view courses whether admin confirm or decline courses.
-Admin - Login - Access to the system with username and password;
+Admin Modules- Login - Access to the system with username and password;
        Add course -  Create course name and course description;
        View course -  View course, name,description;
        Edit course -  Update the course name, and description;
@@ -24,7 +24,7 @@ Admin - Login - Access to the system with username and password;
        Search - Search by student and course name ;
        Setting - To update account name and password;
        Logout - Logout from the system;
-Student - Login - Access to the system with username and password;
+Student Modules- Login - Access to the system with username and password;
          Sign up - Create account to access the system;
          Enroll course - Enroll course created by admin in the course lists;
          Add info - Add information details in respective form;
